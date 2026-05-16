@@ -1,0 +1,1331 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 12:54:26 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 29068@DESKTOP-C3ESJLV
+
+[2026-05-04 12:54:26 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 12:54:26 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 12:54:26 #4 type.registry] 
+New type domain.Saskia
+
+[2026-05-04 12:54:26 #5 type.registry] 
+New type domain.Eskaera
+
+[2026-05-04 12:54:26 #6 type.registry] 
+New type domain.Oferta
+
+[2026-05-04 12:54:26 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 12:54:26 #8 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 12:54:26 #9 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 12:54:26 #10 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 12:54:26 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 12:54:26 #12 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 12:54:26 #13 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 12:54:26 #14 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 12:54:26 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 29068@DESKTOP-C3ESJLV
+
+[2026-05-04 12:54:37 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 29068@DESKTOP-C3ESJLV
+
+[2026-05-04 12:54:37 #17 type.registry] 
+New type java.util.ArrayList<domain.Oferta>
+
+[2026-05-04 12:54:37 #18 type.registry] 
+New type java.util.ArrayList<domain.Eskaera>
+
+[2026-05-04 12:54:37 #19 type.registry] 
+New type java.util.ArrayList<domain.Saskia>
+
+[2026-05-04 12:54:37 #20 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 29068@DESKTOP-C3ESJLV
+
+[2026-05-04 12:54:43 #21 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 29068@DESKTOP-C3ESJLV
+
+[2026-05-04 12:54:43 #22 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 29068@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 12:56:41 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 25660@DESKTOP-C3ESJLV
+
+[2026-05-04 12:56:41 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 12:56:41 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 12:56:41 #4 type.registry] 
+New type domain.BalorazioProfila
+
+[2026-05-04 12:56:41 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 12:56:41 #6 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 12:56:41 #7 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 12:56:41 #8 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 12:56:41 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 12:56:41 #10 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 12:56:41 #11 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 12:56:41 #12 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 12:56:41 #13 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 12:58:31 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 2176@DESKTOP-C3ESJLV
+
+[2026-05-04 12:58:31 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 12:58:31 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 12:58:31 #4 type.registry] 
+New type domain.BalorazioProfila
+
+[2026-05-04 12:58:31 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 12:58:31 #6 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 12:58:31 #7 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 12:58:31 #8 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 12:58:31 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 12:58:31 #10 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 12:58:31 #11 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 12:58:31 #12 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 12:58:31 #13 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 12:59:05 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 20884@DESKTOP-C3ESJLV
+
+[2026-05-04 12:59:06 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 12:59:06 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 12:59:06 #4 type.registry] 
+New type domain.BalorazioProfila
+
+[2026-05-04 12:59:06 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 12:59:06 #6 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 12:59:06 #7 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 12:59:06 #8 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 12:59:06 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 12:59:06 #10 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 12:59:06 #11 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 12:59:06 #12 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 12:59:06 #13 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 12:59:53 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 17776@DESKTOP-C3ESJLV
+
+[2026-05-04 12:59:53 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 12:59:53 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 12:59:53 #4 type.registry] 
+New type domain.BalorazioProfila
+
+[2026-05-04 12:59:53 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 12:59:53 #6 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 12:59:53 #7 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 12:59:53 #8 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 12:59:53 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 12:59:53 #10 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 12:59:53 #11 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 12:59:53 #12 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 12:59:53 #13 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 13:00:46 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 13004@DESKTOP-C3ESJLV
+
+[2026-05-04 13:00:46 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 13:00:46 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 13:00:46 #4 type.registry] 
+New type domain.BalorazioProfila
+
+[2026-05-04 13:00:46 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 13:00:46 #6 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 13:00:46 #7 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 13:00:46 #8 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 13:00:46 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 13:00:46 #10 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 13:00:46 #11 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 13:00:46 #12 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 13:00:46 #13 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 13:01:12 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28820@DESKTOP-C3ESJLV
+
+[2026-05-04 13:01:12 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 13:01:12 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 13:01:12 #4 type.registry] 
+New type domain.BalorazioProfila
+
+[2026-05-04 13:01:12 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 13:01:12 #6 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 13:01:12 #7 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 13:01:12 #8 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 13:01:12 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 13:01:12 #10 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 13:01:12 #11 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 13:01:12 #12 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 13:01:12 #13 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 13:03:33 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 3308@DESKTOP-C3ESJLV
+
+[2026-05-04 13:03:34 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 13:03:34 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 13:03:34 #4 type.registry] 
+New type domain.BalorazioProfila
+
+[2026-05-04 13:03:34 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 13:03:34 #6 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 13:03:34 #7 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 13:03:34 #8 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 13:03:34 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 13:03:34 #10 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 13:03:34 #11 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 13:03:34 #12 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 13:03:34 #13 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 13:03:34 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 3308@DESKTOP-C3ESJLV
+
+[2026-05-04 13:03:40 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 3308@DESKTOP-C3ESJLV
+
+[2026-05-04 13:03:40 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 3308@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 18:28:23 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 29884@DESKTOP-C3ESJLV
+
+[2026-05-04 18:28:23 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 18:28:23 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 18:28:23 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 18:28:23 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 18:28:23 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 18:28:23 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 18:28:23 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 18:28:23 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 18:28:23 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 18:28:23 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 18:28:23 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 18:28:23 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 29884@DESKTOP-C3ESJLV
+
+[2026-05-04 18:28:33 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 29884@DESKTOP-C3ESJLV
+
+[2026-05-04 18:28:33 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 29884@DESKTOP-C3ESJLV
+
+[2026-05-04 18:28:38 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 29884@DESKTOP-C3ESJLV
+
+[2026-05-04 18:28:38 #17 type.registry] 
+New type java.util.ArrayList<domain.BalorazioProfila>
+
+[2026-05-04 18:28:38 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 29884@DESKTOP-C3ESJLV
+
+[2026-05-04 18:28:41 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 29884@DESKTOP-C3ESJLV
+
+[2026-05-04 18:28:41 #20 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 29884@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 18:30:58 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:30:58 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 18:30:58 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 18:30:58 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 18:30:58 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 18:30:58 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 18:30:58 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 18:30:58 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 18:30:58 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 18:30:58 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 18:30:58 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 18:30:58 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 18:30:58 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:07 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:07 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:16 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:16 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:18 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:18 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:18 #20 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:18 #21 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:38 #22 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:38 #23 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:43 #24 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:43 #25 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:43 #26 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:43 #27 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:48 #28 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30664@DESKTOP-C3ESJLV
+
+[2026-05-04 18:31:48 #29 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30664@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 18:39:24 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 19900@DESKTOP-C3ESJLV
+
+[2026-05-04 18:39:24 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 18:39:24 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 18:39:24 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 18:39:24 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 18:39:24 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 18:39:24 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 18:39:24 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 18:39:24 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 18:39:24 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 18:39:24 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 18:39:24 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 18:39:24 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 19900@DESKTOP-C3ESJLV
+
+[2026-05-04 18:39:40 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 19900@DESKTOP-C3ESJLV
+
+[2026-05-04 18:39:40 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 19900@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:07 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 19900@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:07 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 19900@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 18:41:14 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30488@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:14 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 18:41:14 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 18:41:14 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 18:41:14 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 18:41:14 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 18:41:14 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 18:41:14 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 18:41:14 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 18:41:14 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 18:41:14 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 18:41:14 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 18:41:14 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30488@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:30 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30488@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:30 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30488@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:38 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30488@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:38 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30488@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:38 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30488@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:38 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30488@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:56 #20 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30488@DESKTOP-C3ESJLV
+
+[2026-05-04 18:41:56 #21 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30488@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 18:43:29 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 1460@DESKTOP-C3ESJLV
+
+[2026-05-04 18:43:29 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 18:43:29 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 18:43:29 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 18:43:29 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 18:43:29 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 18:43:29 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 18:43:29 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 18:43:29 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 18:43:29 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 18:43:29 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 18:43:29 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 18:43:29 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 1460@DESKTOP-C3ESJLV
+
+[2026-05-04 18:43:42 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 1460@DESKTOP-C3ESJLV
+
+[2026-05-04 18:43:42 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 1460@DESKTOP-C3ESJLV
+
+[2026-05-04 18:43:44 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 1460@DESKTOP-C3ESJLV
+
+[2026-05-04 18:43:44 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 1460@DESKTOP-C3ESJLV
+
+[2026-05-04 18:43:44 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 1460@DESKTOP-C3ESJLV
+
+[2026-05-04 18:43:44 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 1460@DESKTOP-C3ESJLV
+
+[2026-05-04 18:44:01 #20 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 1460@DESKTOP-C3ESJLV
+
+[2026-05-04 18:44:01 #21 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 1460@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 18:57:00 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:00 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 18:57:00 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 18:57:00 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 18:57:00 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 18:57:00 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 18:57:00 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 18:57:00 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 18:57:00 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 18:57:00 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 18:57:00 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 18:57:00 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 18:57:00 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:09 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:09 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:11 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:11 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:11 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:11 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:19 #20 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:19 #21 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:25 #22 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 24412@DESKTOP-C3ESJLV
+
+[2026-05-04 18:57:25 #23 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 24412@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 19:00:14 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:14 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 19:00:14 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 19:00:14 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 19:00:14 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 19:00:14 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 19:00:14 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 19:00:14 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 19:00:14 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 19:00:14 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 19:00:14 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 19:00:14 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 19:00:14 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:22 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:22 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:23 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:23 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:23 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:23 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:33 #20 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:33 #21 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:35 #22 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 25308@DESKTOP-C3ESJLV
+
+[2026-05-04 19:00:35 #23 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 25308@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 19:12:21 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 23356@DESKTOP-C3ESJLV
+
+[2026-05-04 19:12:21 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 19:12:21 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 19:12:21 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 19:12:21 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 19:12:21 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 19:12:21 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 19:12:21 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 19:12:21 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 19:12:21 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 19:12:21 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 19:12:21 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 19:12:21 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 23356@DESKTOP-C3ESJLV
+
+[2026-05-04 19:12:31 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 23356@DESKTOP-C3ESJLV
+
+[2026-05-04 19:12:31 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 23356@DESKTOP-C3ESJLV
+
+[2026-05-04 19:12:33 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 23356@DESKTOP-C3ESJLV
+
+[2026-05-04 19:12:33 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 23356@DESKTOP-C3ESJLV
+
+[2026-05-04 19:12:53 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 23356@DESKTOP-C3ESJLV
+
+[2026-05-04 19:12:53 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 23356@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 19:14:28 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28052@DESKTOP-C3ESJLV
+
+[2026-05-04 19:14:28 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 19:14:28 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 19:14:28 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 19:14:28 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 19:14:28 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 19:14:28 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 19:14:28 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 19:14:28 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 19:14:28 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 19:14:28 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 19:14:28 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 19:14:28 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 28052@DESKTOP-C3ESJLV
+
+[2026-05-04 19:14:37 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28052@DESKTOP-C3ESJLV
+
+[2026-05-04 19:14:37 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 28052@DESKTOP-C3ESJLV
+
+[2026-05-04 19:14:42 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28052@DESKTOP-C3ESJLV
+
+[2026-05-04 19:14:42 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 28052@DESKTOP-C3ESJLV
+
+[2026-05-04 19:14:58 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28052@DESKTOP-C3ESJLV
+
+[2026-05-04 19:14:58 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 28052@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 19:15:59 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30680@DESKTOP-C3ESJLV
+
+[2026-05-04 19:15:59 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 19:15:59 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 19:15:59 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 19:15:59 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 19:15:59 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 19:15:59 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 19:15:59 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 19:15:59 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 19:15:59 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 19:15:59 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 19:15:59 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 19:15:59 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30680@DESKTOP-C3ESJLV
+
+[2026-05-04 19:16:10 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30680@DESKTOP-C3ESJLV
+
+[2026-05-04 19:16:10 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30680@DESKTOP-C3ESJLV
+
+[2026-05-04 19:16:12 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30680@DESKTOP-C3ESJLV
+
+[2026-05-04 19:16:12 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30680@DESKTOP-C3ESJLV
+
+[2026-05-04 19:16:18 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30680@DESKTOP-C3ESJLV
+
+[2026-05-04 19:16:18 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30680@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 19:17:29 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:29 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 19:17:29 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 19:17:29 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 19:17:29 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 19:17:29 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 19:17:29 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 19:17:29 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 19:17:29 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 19:17:29 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 19:17:29 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 19:17:29 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 19:17:29 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:38 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:38 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:39 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:39 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:39 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:39 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:44 #20 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:44 #21 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:52 #22 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 28572@DESKTOP-C3ESJLV
+
+[2026-05-04 19:17:52 #23 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 28572@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 19:20:20 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:20 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 19:20:20 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 19:20:20 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 19:20:20 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 19:20:20 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 19:20:20 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 19:20:20 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 19:20:20 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 19:20:20 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 19:20:20 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 19:20:20 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 19:20:20 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:35 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:35 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:37 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:37 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:51 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:51 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:52 #20 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:52 #21 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:52 #22 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:20:52 #23 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:01 #24 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:01 #25 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:01 #26 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:01 #27 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:04 #28 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:04 #29 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:04 #30 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:04 #31 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:09 #32 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:09 #33 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:26 #34 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:26 #35 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:28 #36 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 14184@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:28 #37 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 14184@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 19:21:30 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:30 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 19:21:31 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 19:21:31 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 19:21:31 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 19:21:31 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 19:21:31 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 19:21:31 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 19:21:31 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 19:21:31 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 19:21:31 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 19:21:31 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 19:21:31 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:40 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:40 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:49 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:49 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:49 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:21:49 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:18 #20 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:18 #21 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:22 #22 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 30864@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:22 #23 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 30864@DESKTOP-C3ESJLV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-04 19:22:26 #1 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 31624@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:26 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2026-05-04 19:22:26 #3 type] 
+Type domain.User is not enhanced.
+
+[2026-05-04 19:22:26 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2026-05-04 19:22:26 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2026-05-04 19:22:26 #6 type] 
+Type domain.DiruKontua is not enhanced.
+
+[2026-05-04 19:22:26 #7 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-04 19:22:26 #8 type] 
+Type domain.Admin is not enhanced.
+
+[2026-05-04 19:22:26 #9 type] 
+Type domain.Saskia is not enhanced.
+
+[2026-05-04 19:22:26 #10 type] 
+Type domain.Eskaera is not enhanced.
+
+[2026-05-04 19:22:26 #11 type] 
+Type domain.Oferta is not enhanced.
+
+[2026-05-04 19:22:26 #12 type] 
+Type domain.BalorazioProfila is not enhanced.
+
+[2026-05-04 19:22:26 #13 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 31624@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:36 #14 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 31624@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:36 #15 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 31624@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:40 #16 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 31624@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:40 #17 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 31624@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:55 #18 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is opened by 31624@DESKTOP-C3ESJLV
+
+[2026-05-04 19:22:55 #19 store] 
+Database 'C:\Users\Usuario\git\Market26\src\main\resources\products.temp' is closed by 31624@DESKTOP-C3ESJLV
+
